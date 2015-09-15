@@ -1,6 +1,6 @@
 {
-  "name": "express-param-collector",
-  "version": "0.0.0",
+  "name": "req-param-collector",
+  "version": "0.0.1",
   "description": "Collector of params for express",
   "main": "index.js",
   "scripts": {
