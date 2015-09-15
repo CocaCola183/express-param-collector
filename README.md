@@ -18,3 +18,8 @@ express:
 var params_collector = require('req-param-collector');
 app.use(params_collector());
 ```
+
+## Default config
+```js
+['body', 'params', 'query']
+```
